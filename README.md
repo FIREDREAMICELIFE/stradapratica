@@ -14,6 +14,10 @@ Questionario anonimo e gratuito, pochi minuti, nessun impegno.
 
 👉 **[Partecipa all'indagine](https://www.stradapratica.it/?src=github#indagine)**
 
+<a href="https://www.stradapratica.it/?src=qr#indagine"><img src="marketing/qr/qr-indagine.svg" alt="QR code del questionario Strada Pratica" width="220"></a>
+
+*Inquadra il QR con il telefono, oppure scaricalo e condividilo: [qr-indagine.svg](marketing/qr/qr-indagine.svg)*
+
 Chi può partecipare: autotrasportatori autonomi, titolari e responsabili di microimprese e PMI di trasporto e logistica.
 I risultati aggregati saranno pubblicati qui, in forma anonima.
 
